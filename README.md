@@ -16,7 +16,7 @@ The dataset includes approximately 10,000 suspected typhoid cases, with a smalle
     - P3: February 24 - March 16, 2015
     - P4: March 17, 2015 - June 12, 2015
       
-![Data description](Figure/Figure 1.png)
+![Data description](Figure/Figure_1.png)
 
 ## 2. Vaccine Scenario
 
@@ -28,3 +28,5 @@ The relevant materials are provided in this repository and can be found in the *
     - Vaccination during P3 (February 24 to March 17, 2015)
 - Scenario 3: Combined
     - Vaccination during P2+P3 (February 10 to March 17, 2015)
+
+![Vaccine scenarios](Figure/Figure_2.png)
