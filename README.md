@@ -1,4 +1,4 @@
-# Typhoid_modeling
+# Effective strategies for Typhoid Conjugate Vaccine Delivery: Health and Economic Insights from the 2015 Kampala Outbreak (2025)
 
 ## 1. Data
 
