@@ -1,5 +1,7 @@
 # Effective strategies for Typhoid Conjugate Vaccine Delivery: Health and Economic Insights from the 2015 Kampala Outbreak (2025)
 
+The paper can found here: https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013566
+
 ## 1. Data
 
 The dataset includes approximately 10,000 suspected typhoid cases, with a smaller number of probable and confirmed cases. Although it lacks information on mortality or complications, it captures the outbreak’s temporal progression, making it useful for model validation.
